@@ -1,2 +1,2 @@
 # testproject1
-training
+training 1
