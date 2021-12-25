@@ -1,2 +1,2 @@
 # testproject1
-training 1 -test5 commit
+training 1 -test6 commit
